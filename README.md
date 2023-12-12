@@ -20,12 +20,12 @@ This project presents a web-based Exploratory Data Analysis (EDA) Dashboard for 
 - **Notifications**: Real-time alerts for important events like dataset uploads and prediction completions.
 
 ## Setup and Installation
-1. Clone the repository:
- https://github.com/Lakshya-Ag/Streamlit-Dashboard
-2. Navigate to the project directory:
-3. Install required Python packages:
-4. Set up MySQL or MSSQL database with the required schema.
-5. Run the Streamlit application:
+1. Clone the repository.
+ https://github.com/kalyant/EDA_Dashboard
+3. Navigate to the project directory.
+4. Install required Python packages.
+5. Set up MySQL database with the required schema.
+6. Run the Streamlit application.
 
 ## Usage
 Upon launching the dashboard, users can:
