@@ -5,7 +5,7 @@ This project presents a web-based Exploratory Data Analysis (EDA) Dashboard for 
 
 ## Technologies Used
 - Python
-- MySQL / MSSQL
+- MySQL
 - Streamlit
 - yfinance (for fetching stock data)
 - Machine Learning (for stock predictions)
