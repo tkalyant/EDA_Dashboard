@@ -33,7 +33,7 @@ def main():
         readme_text_1 = st.markdown(get_file_content_as_string("Covid.md"))
 
 def get_file_content_as_string(path):
-    url = 'https://raw.githubusercontent.com/Lakshya-Ag/Streamlit-Dashboard/master/' + path
+    url = 'https://raw.githubusercontent.com/tkalyant/EDA_Dashboard/master/' + path
     response = urllib.request.urlopen(url)
     return response.read().decode("utf-8")
 
